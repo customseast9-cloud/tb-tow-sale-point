@@ -42,3 +42,4 @@ Config.SaleLocations = {
 
 ## Support
 If you have issues or want more features, open an issue or contact the script author.
+https://tbscripts.tebex.io/category/qbcoreqbx-scripts
